@@ -6,6 +6,7 @@
         <p>
           <?php
             echo "My name is Kate";
+            echo "My" . " " . "name" . " " . "is" . " " . "Kate";
           ?>
         </p>
 	</body>
