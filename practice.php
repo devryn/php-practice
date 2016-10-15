@@ -11,6 +11,13 @@
             $myName = "Kate"; //setting a variable
             echo $myName; //prints variable
             10 <= 11;
+            $month = 10;
+            if($month >= 12) {
+              echo "It's almost Christmas!";
+            }
+            else {
+              echo "It's not close to Christmas.";
+            }
           ?>
         </p>
 	</body>
