@@ -10,6 +10,7 @@
             echo 9 * 19 //multiplication
             $myName = "Kate"; //setting a variable
             echo $myName; //prints variable
+            10 <= 11;
           ?>
         </p>
 	</body>
