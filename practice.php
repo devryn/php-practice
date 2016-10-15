@@ -7,6 +7,7 @@
           <?php
             echo "My name is Kate";
             echo "My" . " " . "name" . " " . "is" . " " . "Kate";
+            echo 9 * 19
           ?>
         </p>
 	</body>
