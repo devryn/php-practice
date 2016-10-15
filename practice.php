@@ -9,6 +9,7 @@
             echo "My" . " " . "name" . " " . "is" . " " . "Kate"; //concat
             echo 9 * 19 //multiplication
             $myName = "Kate"; //setting a variable
+            echo $myName; //prints variable
           ?>
         </p>
 	</body>
